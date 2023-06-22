@@ -1,2 +1,3 @@
-Name: Emmanuel Adeoye
+Name: Emmanuel Adeoye 
 registration no: 123456
+Address: 1234 Adeoye street
